@@ -1,0 +1,5 @@
+{
+  "name": "icp-claude-theme",
+  "owner": { "name": "ICP Modern Sports Search" },
+  "plugins": [{ "name": "icp-brand", "source": "./" }]
+}
